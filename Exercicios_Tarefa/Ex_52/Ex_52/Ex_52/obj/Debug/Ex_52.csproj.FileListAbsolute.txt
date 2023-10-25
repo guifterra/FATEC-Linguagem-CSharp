@@ -1,0 +1,13 @@
+D:\Ex_52\Ex_52\Ex_52\bin\Debug\Ex_52.exe.config
+D:\Ex_52\Ex_52\Ex_52\bin\Debug\Ex_52.exe
+D:\Ex_52\Ex_52\Ex_52\bin\Debug\Ex_52.pdb
+D:\Ex_52\Ex_52\Ex_52\obj\Debug\Ex_52.csproj.CoreCompileInputs.cache
+D:\Ex_52\Ex_52\Ex_52\obj\Debug\Ex_52.exe
+D:\Ex_52\Ex_52\Ex_52\obj\Debug\Ex_52.pdb
+F:\Algoritmo\Exercicios_Tarefa\Ex_52\Ex_52\Ex_52\bin\Debug\Ex_52.exe.config
+F:\Algoritmo\Exercicios_Tarefa\Ex_52\Ex_52\Ex_52\bin\Debug\Ex_52.exe
+F:\Algoritmo\Exercicios_Tarefa\Ex_52\Ex_52\Ex_52\bin\Debug\Ex_52.pdb
+F:\Algoritmo\Exercicios_Tarefa\Ex_52\Ex_52\Ex_52\obj\Debug\Ex_52.csprojAssemblyReference.cache
+F:\Algoritmo\Exercicios_Tarefa\Ex_52\Ex_52\Ex_52\obj\Debug\Ex_52.csproj.CoreCompileInputs.cache
+F:\Algoritmo\Exercicios_Tarefa\Ex_52\Ex_52\Ex_52\obj\Debug\Ex_52.exe
+F:\Algoritmo\Exercicios_Tarefa\Ex_52\Ex_52\Ex_52\obj\Debug\Ex_52.pdb

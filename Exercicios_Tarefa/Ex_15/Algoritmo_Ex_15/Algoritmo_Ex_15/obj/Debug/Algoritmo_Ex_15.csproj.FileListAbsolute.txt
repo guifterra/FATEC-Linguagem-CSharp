@@ -1,0 +1,6 @@
+F:\Algoritmo\Exercicios_Tarefa\Ex_15\Algoritmo_Ex_15\Algoritmo_Ex_15\bin\Debug\Algoritmo_Ex_15.exe.config
+F:\Algoritmo\Exercicios_Tarefa\Ex_15\Algoritmo_Ex_15\Algoritmo_Ex_15\bin\Debug\Algoritmo_Ex_15.exe
+F:\Algoritmo\Exercicios_Tarefa\Ex_15\Algoritmo_Ex_15\Algoritmo_Ex_15\bin\Debug\Algoritmo_Ex_15.pdb
+F:\Algoritmo\Exercicios_Tarefa\Ex_15\Algoritmo_Ex_15\Algoritmo_Ex_15\obj\Debug\Algoritmo_Ex_15.csproj.CoreCompileInputs.cache
+F:\Algoritmo\Exercicios_Tarefa\Ex_15\Algoritmo_Ex_15\Algoritmo_Ex_15\obj\Debug\Algoritmo_Ex_15.exe
+F:\Algoritmo\Exercicios_Tarefa\Ex_15\Algoritmo_Ex_15\Algoritmo_Ex_15\obj\Debug\Algoritmo_Ex_15.pdb

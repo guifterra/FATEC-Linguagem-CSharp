@@ -1,0 +1,7 @@
+D:\Ex_46\Ex_46\Ex_46\bin\Debug\Ex_46.exe.config
+D:\Ex_46\Ex_46\Ex_46\bin\Debug\Ex_46.exe
+D:\Ex_46\Ex_46\Ex_46\bin\Debug\Ex_46.pdb
+D:\Ex_46\Ex_46\Ex_46\obj\Debug\Ex_46.csprojAssemblyReference.cache
+D:\Ex_46\Ex_46\Ex_46\obj\Debug\Ex_46.csproj.CoreCompileInputs.cache
+D:\Ex_46\Ex_46\Ex_46\obj\Debug\Ex_46.exe
+D:\Ex_46\Ex_46\Ex_46\obj\Debug\Ex_46.pdb

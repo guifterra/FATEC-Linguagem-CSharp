@@ -1,0 +1,7 @@
+D:\Aula_3_Algoritmo\Aula_3_Algoritmo\Aula_3_Algoritmo\bin\Debug\Aula_3_Algoritmo.exe.config
+D:\Aula_3_Algoritmo\Aula_3_Algoritmo\Aula_3_Algoritmo\bin\Debug\Aula_3_Algoritmo.exe
+D:\Aula_3_Algoritmo\Aula_3_Algoritmo\Aula_3_Algoritmo\bin\Debug\Aula_3_Algoritmo.pdb
+D:\Aula_3_Algoritmo\Aula_3_Algoritmo\Aula_3_Algoritmo\obj\Debug\Aula_3_Algoritmo.csprojAssemblyReference.cache
+D:\Aula_3_Algoritmo\Aula_3_Algoritmo\Aula_3_Algoritmo\obj\Debug\Aula_3_Algoritmo.csproj.CoreCompileInputs.cache
+D:\Aula_3_Algoritmo\Aula_3_Algoritmo\Aula_3_Algoritmo\obj\Debug\Aula_3_Algoritmo.exe
+D:\Aula_3_Algoritmo\Aula_3_Algoritmo\Aula_3_Algoritmo\obj\Debug\Aula_3_Algoritmo.pdb

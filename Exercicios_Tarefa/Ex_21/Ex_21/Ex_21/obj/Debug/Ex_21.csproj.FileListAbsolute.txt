@@ -1,0 +1,7 @@
+D:\Ex_21\Ex_21\Ex_21\bin\Debug\Ex_21.exe.config
+D:\Ex_21\Ex_21\Ex_21\bin\Debug\Ex_21.exe
+D:\Ex_21\Ex_21\Ex_21\bin\Debug\Ex_21.pdb
+D:\Ex_21\Ex_21\Ex_21\obj\Debug\Ex_21.csprojAssemblyReference.cache
+D:\Ex_21\Ex_21\Ex_21\obj\Debug\Ex_21.csproj.CoreCompileInputs.cache
+D:\Ex_21\Ex_21\Ex_21\obj\Debug\Ex_21.exe
+D:\Ex_21\Ex_21\Ex_21\obj\Debug\Ex_21.pdb

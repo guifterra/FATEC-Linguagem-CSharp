@@ -1,0 +1,7 @@
+D:\Ex_45\Ex_45\Ex_45\bin\Debug\Ex_45.exe.config
+D:\Ex_45\Ex_45\Ex_45\bin\Debug\Ex_45.exe
+D:\Ex_45\Ex_45\Ex_45\bin\Debug\Ex_45.pdb
+D:\Ex_45\Ex_45\Ex_45\obj\Debug\Ex_45.csprojAssemblyReference.cache
+D:\Ex_45\Ex_45\Ex_45\obj\Debug\Ex_45.csproj.CoreCompileInputs.cache
+D:\Ex_45\Ex_45\Ex_45\obj\Debug\Ex_45.exe
+D:\Ex_45\Ex_45\Ex_45\obj\Debug\Ex_45.pdb

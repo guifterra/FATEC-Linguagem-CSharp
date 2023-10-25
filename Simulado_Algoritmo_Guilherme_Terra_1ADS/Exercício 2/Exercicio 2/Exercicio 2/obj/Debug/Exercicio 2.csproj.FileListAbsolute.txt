@@ -1,0 +1,6 @@
+D:\Simulado_Algoritmo_Guilherme_Terra_1ADS\Exercício 2\Exercicio 2\Exercicio 2\bin\Debug\Exercicio 2.exe.config
+D:\Simulado_Algoritmo_Guilherme_Terra_1ADS\Exercício 2\Exercicio 2\Exercicio 2\bin\Debug\Exercicio 2.exe
+D:\Simulado_Algoritmo_Guilherme_Terra_1ADS\Exercício 2\Exercicio 2\Exercicio 2\bin\Debug\Exercicio 2.pdb
+D:\Simulado_Algoritmo_Guilherme_Terra_1ADS\Exercício 2\Exercicio 2\Exercicio 2\obj\Debug\Exercicio 2.csproj.CoreCompileInputs.cache
+D:\Simulado_Algoritmo_Guilherme_Terra_1ADS\Exercício 2\Exercicio 2\Exercicio 2\obj\Debug\Exercicio 2.exe
+D:\Simulado_Algoritmo_Guilherme_Terra_1ADS\Exercício 2\Exercicio 2\Exercicio 2\obj\Debug\Exercicio 2.pdb

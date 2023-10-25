@@ -1,0 +1,6 @@
+D:\Gui\Ex_66\Ex_66\Ex_66\bin\Debug\Ex_66.exe.config
+D:\Gui\Ex_66\Ex_66\Ex_66\bin\Debug\Ex_66.exe
+D:\Gui\Ex_66\Ex_66\Ex_66\bin\Debug\Ex_66.pdb
+D:\Gui\Ex_66\Ex_66\Ex_66\obj\Debug\Ex_66.csproj.CoreCompileInputs.cache
+D:\Gui\Ex_66\Ex_66\Ex_66\obj\Debug\Ex_66.exe
+D:\Gui\Ex_66\Ex_66\Ex_66\obj\Debug\Ex_66.pdb

@@ -1,0 +1,7 @@
+D:\Ex_54\Ex_54\Ex_54\obj\Debug\Ex_54.csprojAssemblyReference.cache
+D:\Ex_54\Ex_54\Ex_54\obj\Debug\Ex_54.csproj.CoreCompileInputs.cache
+D:\Ex_54\Ex_54\Ex_54\bin\Debug\Ex_54.exe.config
+D:\Ex_54\Ex_54\Ex_54\bin\Debug\Ex_54.exe
+D:\Ex_54\Ex_54\Ex_54\bin\Debug\Ex_54.pdb
+D:\Ex_54\Ex_54\Ex_54\obj\Debug\Ex_54.exe
+D:\Ex_54\Ex_54\Ex_54\obj\Debug\Ex_54.pdb

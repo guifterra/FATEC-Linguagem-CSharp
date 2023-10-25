@@ -1,0 +1,7 @@
+D:\Gui\Ex_57\Ex_57\Ex_57\bin\Debug\Ex_57.exe.config
+D:\Gui\Ex_57\Ex_57\Ex_57\bin\Debug\Ex_57.exe
+D:\Gui\Ex_57\Ex_57\Ex_57\bin\Debug\Ex_57.pdb
+D:\Gui\Ex_57\Ex_57\Ex_57\obj\Debug\Ex_57.csprojAssemblyReference.cache
+D:\Gui\Ex_57\Ex_57\Ex_57\obj\Debug\Ex_57.csproj.CoreCompileInputs.cache
+D:\Gui\Ex_57\Ex_57\Ex_57\obj\Debug\Ex_57.exe
+D:\Gui\Ex_57\Ex_57\Ex_57\obj\Debug\Ex_57.pdb

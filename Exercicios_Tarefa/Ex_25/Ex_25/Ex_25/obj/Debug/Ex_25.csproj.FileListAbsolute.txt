@@ -1,0 +1,6 @@
+D:\Ex_25\Ex_25\Ex_25\bin\Debug\Ex_25.exe.config
+D:\Ex_25\Ex_25\Ex_25\bin\Debug\Ex_25.exe
+D:\Ex_25\Ex_25\Ex_25\bin\Debug\Ex_25.pdb
+D:\Ex_25\Ex_25\Ex_25\obj\Debug\Ex_25.csproj.CoreCompileInputs.cache
+D:\Ex_25\Ex_25\Ex_25\obj\Debug\Ex_25.exe
+D:\Ex_25\Ex_25\Ex_25\obj\Debug\Ex_25.pdb

@@ -1,0 +1,7 @@
+D:\Ex_27\Ex_27\Ex_27\bin\Debug\Ex_27.exe.config
+D:\Ex_27\Ex_27\Ex_27\bin\Debug\Ex_27.exe
+D:\Ex_27\Ex_27\Ex_27\bin\Debug\Ex_27.pdb
+D:\Ex_27\Ex_27\Ex_27\obj\Debug\Ex_27.csprojAssemblyReference.cache
+D:\Ex_27\Ex_27\Ex_27\obj\Debug\Ex_27.csproj.CoreCompileInputs.cache
+D:\Ex_27\Ex_27\Ex_27\obj\Debug\Ex_27.exe
+D:\Ex_27\Ex_27\Ex_27\obj\Debug\Ex_27.pdb

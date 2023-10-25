@@ -1,0 +1,6 @@
+F:\Algoritmo\Exercicios_Tarefa\Ex_14\Algoritmo_Ex_14\Algoritmo_Ex_14\bin\Debug\Algoritmo_Ex_14.exe.config
+F:\Algoritmo\Exercicios_Tarefa\Ex_14\Algoritmo_Ex_14\Algoritmo_Ex_14\bin\Debug\Algoritmo_Ex_14.exe
+F:\Algoritmo\Exercicios_Tarefa\Ex_14\Algoritmo_Ex_14\Algoritmo_Ex_14\bin\Debug\Algoritmo_Ex_14.pdb
+F:\Algoritmo\Exercicios_Tarefa\Ex_14\Algoritmo_Ex_14\Algoritmo_Ex_14\obj\Debug\Algoritmo_Ex_14.csproj.CoreCompileInputs.cache
+F:\Algoritmo\Exercicios_Tarefa\Ex_14\Algoritmo_Ex_14\Algoritmo_Ex_14\obj\Debug\Algoritmo_Ex_14.exe
+F:\Algoritmo\Exercicios_Tarefa\Ex_14\Algoritmo_Ex_14\Algoritmo_Ex_14\obj\Debug\Algoritmo_Ex_14.pdb

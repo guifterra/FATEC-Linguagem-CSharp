@@ -1,0 +1,6 @@
+D:\Ex_50\Ex_50\Ex_50\bin\Debug\Ex_50.exe.config
+D:\Ex_50\Ex_50\Ex_50\bin\Debug\Ex_50.exe
+D:\Ex_50\Ex_50\Ex_50\bin\Debug\Ex_50.pdb
+D:\Ex_50\Ex_50\Ex_50\obj\Debug\Ex_50.csproj.CoreCompileInputs.cache
+D:\Ex_50\Ex_50\Ex_50\obj\Debug\Ex_50.exe
+D:\Ex_50\Ex_50\Ex_50\obj\Debug\Ex_50.pdb

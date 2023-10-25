@@ -1,0 +1,7 @@
+F:\Algoritmo\Exercicios_Tarefa\Ex_84\Ex_84\Ex_84\bin\Debug\Ex_84.exe.config
+F:\Algoritmo\Exercicios_Tarefa\Ex_84\Ex_84\Ex_84\bin\Debug\Ex_84.exe
+F:\Algoritmo\Exercicios_Tarefa\Ex_84\Ex_84\Ex_84\bin\Debug\Ex_84.pdb
+F:\Algoritmo\Exercicios_Tarefa\Ex_84\Ex_84\Ex_84\obj\Debug\Ex_84.csprojAssemblyReference.cache
+F:\Algoritmo\Exercicios_Tarefa\Ex_84\Ex_84\Ex_84\obj\Debug\Ex_84.csproj.CoreCompileInputs.cache
+F:\Algoritmo\Exercicios_Tarefa\Ex_84\Ex_84\Ex_84\obj\Debug\Ex_84.exe
+F:\Algoritmo\Exercicios_Tarefa\Ex_84\Ex_84\Ex_84\obj\Debug\Ex_84.pdb

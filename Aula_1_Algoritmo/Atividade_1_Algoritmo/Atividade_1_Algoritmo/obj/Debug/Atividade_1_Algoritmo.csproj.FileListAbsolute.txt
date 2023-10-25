@@ -1,0 +1,7 @@
+D:\Aula_1_Algoritmo\Atividade_1_Algoritmo\Atividade_1_Algoritmo\bin\Debug\Atividade_1_Algoritmo.exe.config
+D:\Aula_1_Algoritmo\Atividade_1_Algoritmo\Atividade_1_Algoritmo\bin\Debug\Atividade_1_Algoritmo.exe
+D:\Aula_1_Algoritmo\Atividade_1_Algoritmo\Atividade_1_Algoritmo\bin\Debug\Atividade_1_Algoritmo.pdb
+D:\Aula_1_Algoritmo\Atividade_1_Algoritmo\Atividade_1_Algoritmo\obj\Debug\Atividade_1_Algoritmo.csprojAssemblyReference.cache
+D:\Aula_1_Algoritmo\Atividade_1_Algoritmo\Atividade_1_Algoritmo\obj\Debug\Atividade_1_Algoritmo.csproj.CoreCompileInputs.cache
+D:\Aula_1_Algoritmo\Atividade_1_Algoritmo\Atividade_1_Algoritmo\obj\Debug\Atividade_1_Algoritmo.exe
+D:\Aula_1_Algoritmo\Atividade_1_Algoritmo\Atividade_1_Algoritmo\obj\Debug\Atividade_1_Algoritmo.pdb

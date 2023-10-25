@@ -1,0 +1,6 @@
+F:\Algoritmo\Exercicios_Tarefa\Ex_11\Algoritmo_Ex_11\Algoritmo_Ex_11\bin\Debug\Algoritmo_Ex_11.exe.config
+F:\Algoritmo\Exercicios_Tarefa\Ex_11\Algoritmo_Ex_11\Algoritmo_Ex_11\bin\Debug\Algoritmo_Ex_11.exe
+F:\Algoritmo\Exercicios_Tarefa\Ex_11\Algoritmo_Ex_11\Algoritmo_Ex_11\bin\Debug\Algoritmo_Ex_11.pdb
+F:\Algoritmo\Exercicios_Tarefa\Ex_11\Algoritmo_Ex_11\Algoritmo_Ex_11\obj\Debug\Algoritmo_Ex_11.csproj.CoreCompileInputs.cache
+F:\Algoritmo\Exercicios_Tarefa\Ex_11\Algoritmo_Ex_11\Algoritmo_Ex_11\obj\Debug\Algoritmo_Ex_11.exe
+F:\Algoritmo\Exercicios_Tarefa\Ex_11\Algoritmo_Ex_11\Algoritmo_Ex_11\obj\Debug\Algoritmo_Ex_11.pdb

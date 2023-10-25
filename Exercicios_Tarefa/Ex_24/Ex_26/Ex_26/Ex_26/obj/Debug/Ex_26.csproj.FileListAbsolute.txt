@@ -1,0 +1,7 @@
+D:\Ex_26\Ex_26\Ex_26\bin\Debug\Ex_26.exe.config
+D:\Ex_26\Ex_26\Ex_26\bin\Debug\Ex_26.exe
+D:\Ex_26\Ex_26\Ex_26\bin\Debug\Ex_26.pdb
+D:\Ex_26\Ex_26\Ex_26\obj\Debug\Ex_26.csprojAssemblyReference.cache
+D:\Ex_26\Ex_26\Ex_26\obj\Debug\Ex_26.csproj.CoreCompileInputs.cache
+D:\Ex_26\Ex_26\Ex_26\obj\Debug\Ex_26.exe
+D:\Ex_26\Ex_26\Ex_26\obj\Debug\Ex_26.pdb

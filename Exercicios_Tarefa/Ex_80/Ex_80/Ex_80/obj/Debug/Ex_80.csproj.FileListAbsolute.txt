@@ -1,0 +1,6 @@
+F:\Algoritmo\Exercicios_Tarefa\Ex_80\Ex_80\Ex_80\bin\Debug\Ex_80.exe.config
+F:\Algoritmo\Exercicios_Tarefa\Ex_80\Ex_80\Ex_80\bin\Debug\Ex_80.exe
+F:\Algoritmo\Exercicios_Tarefa\Ex_80\Ex_80\Ex_80\bin\Debug\Ex_80.pdb
+F:\Algoritmo\Exercicios_Tarefa\Ex_80\Ex_80\Ex_80\obj\Debug\Ex_80.csproj.CoreCompileInputs.cache
+F:\Algoritmo\Exercicios_Tarefa\Ex_80\Ex_80\Ex_80\obj\Debug\Ex_80.exe
+F:\Algoritmo\Exercicios_Tarefa\Ex_80\Ex_80\Ex_80\obj\Debug\Ex_80.pdb

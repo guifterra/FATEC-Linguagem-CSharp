@@ -1,0 +1,6 @@
+F:\Algoritmo\Exercicios_Tarefa\Ex_18\Algoritmo_Ex_18\Algoritmo_Ex_18\bin\Debug\Algoritmo_Ex_18.exe.config
+F:\Algoritmo\Exercicios_Tarefa\Ex_18\Algoritmo_Ex_18\Algoritmo_Ex_18\bin\Debug\Algoritmo_Ex_18.exe
+F:\Algoritmo\Exercicios_Tarefa\Ex_18\Algoritmo_Ex_18\Algoritmo_Ex_18\bin\Debug\Algoritmo_Ex_18.pdb
+F:\Algoritmo\Exercicios_Tarefa\Ex_18\Algoritmo_Ex_18\Algoritmo_Ex_18\obj\Debug\Algoritmo_Ex_18.csproj.CoreCompileInputs.cache
+F:\Algoritmo\Exercicios_Tarefa\Ex_18\Algoritmo_Ex_18\Algoritmo_Ex_18\obj\Debug\Algoritmo_Ex_18.exe
+F:\Algoritmo\Exercicios_Tarefa\Ex_18\Algoritmo_Ex_18\Algoritmo_Ex_18\obj\Debug\Algoritmo_Ex_18.pdb

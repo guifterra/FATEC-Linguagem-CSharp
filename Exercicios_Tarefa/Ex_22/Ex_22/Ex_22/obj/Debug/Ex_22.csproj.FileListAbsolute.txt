@@ -1,0 +1,6 @@
+D:\Ex_22\Ex_22\Ex_22\bin\Debug\Ex_22.exe.config
+D:\Ex_22\Ex_22\Ex_22\bin\Debug\Ex_22.exe
+D:\Ex_22\Ex_22\Ex_22\bin\Debug\Ex_22.pdb
+D:\Ex_22\Ex_22\Ex_22\obj\Debug\Ex_22.csproj.CoreCompileInputs.cache
+D:\Ex_22\Ex_22\Ex_22\obj\Debug\Ex_22.exe
+D:\Ex_22\Ex_22\Ex_22\obj\Debug\Ex_22.pdb

@@ -1,0 +1,7 @@
+D:\Ex_42\Ex_42\Ex_42\bin\Debug\Ex_42.exe.config
+D:\Ex_42\Ex_42\Ex_42\bin\Debug\Ex_42.exe
+D:\Ex_42\Ex_42\Ex_42\bin\Debug\Ex_42.pdb
+D:\Ex_42\Ex_42\Ex_42\obj\Debug\Ex_42.csproj.CoreCompileInputs.cache
+D:\Ex_42\Ex_42\Ex_42\obj\Debug\Ex_42.exe
+D:\Ex_42\Ex_42\Ex_42\obj\Debug\Ex_42.pdb
+D:\Ex_42\Ex_42\Ex_42\obj\Debug\Ex_42.csprojAssemblyReference.cache

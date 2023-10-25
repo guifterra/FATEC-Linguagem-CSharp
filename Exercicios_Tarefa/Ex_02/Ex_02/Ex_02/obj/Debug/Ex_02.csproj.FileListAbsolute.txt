@@ -1,0 +1,8 @@
+C:\Users\SKNS\Desktop\Guinerd\Faculdade\Algoritmo\1°Semestre\Exercicios (Solucoes)\Ex_02\Ex_02\Ex_02\bin\Debug\Ex_02.exe.config
+C:\Users\SKNS\Desktop\Guinerd\Faculdade\Algoritmo\1°Semestre\Exercicios (Solucoes)\Ex_02\Ex_02\Ex_02\bin\Debug\Ex_02.exe
+C:\Users\SKNS\Desktop\Guinerd\Faculdade\Algoritmo\1°Semestre\Exercicios (Solucoes)\Ex_02\Ex_02\Ex_02\bin\Debug\Ex_02.pdb
+C:\Users\SKNS\Desktop\Guinerd\Faculdade\Algoritmo\1°Semestre\Exercicios (Solucoes)\Ex_02\Ex_02\Ex_02\obj\Debug\Ex_02.csproj.AssemblyReference.cache
+C:\Users\SKNS\Desktop\Guinerd\Faculdade\Algoritmo\1°Semestre\Exercicios (Solucoes)\Ex_02\Ex_02\Ex_02\obj\Debug\Ex_02.csproj.SuggestedBindingRedirects.cache
+C:\Users\SKNS\Desktop\Guinerd\Faculdade\Algoritmo\1°Semestre\Exercicios (Solucoes)\Ex_02\Ex_02\Ex_02\obj\Debug\Ex_02.csproj.CoreCompileInputs.cache
+C:\Users\SKNS\Desktop\Guinerd\Faculdade\Algoritmo\1°Semestre\Exercicios (Solucoes)\Ex_02\Ex_02\Ex_02\obj\Debug\Ex_02.exe
+C:\Users\SKNS\Desktop\Guinerd\Faculdade\Algoritmo\1°Semestre\Exercicios (Solucoes)\Ex_02\Ex_02\Ex_02\obj\Debug\Ex_02.pdb

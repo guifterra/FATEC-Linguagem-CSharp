@@ -1,0 +1,6 @@
+D:\Ex_73\Ex_73\Ex_73\bin\Debug\Ex_73.exe.config
+D:\Ex_73\Ex_73\Ex_73\bin\Debug\Ex_73.exe
+D:\Ex_73\Ex_73\Ex_73\bin\Debug\Ex_73.pdb
+D:\Ex_73\Ex_73\Ex_73\obj\Debug\Ex_73.csproj.CoreCompileInputs.cache
+D:\Ex_73\Ex_73\Ex_73\obj\Debug\Ex_73.exe
+D:\Ex_73\Ex_73\Ex_73\obj\Debug\Ex_73.pdb

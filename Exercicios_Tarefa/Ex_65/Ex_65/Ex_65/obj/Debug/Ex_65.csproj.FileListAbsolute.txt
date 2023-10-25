@@ -1,0 +1,7 @@
+D:\Gui\Ex_65\Ex_65\Ex_65\obj\Debug\Ex_65.csproj.CoreCompileInputs.cache
+D:\Gui\Ex_65\Ex_65\Ex_65\bin\Debug\Ex_65.exe.config
+D:\Gui\Ex_65\Ex_65\Ex_65\bin\Debug\Ex_65.exe
+D:\Gui\Ex_65\Ex_65\Ex_65\bin\Debug\Ex_65.pdb
+D:\Gui\Ex_65\Ex_65\Ex_65\obj\Debug\Ex_65.exe
+D:\Gui\Ex_65\Ex_65\Ex_65\obj\Debug\Ex_65.pdb
+D:\Gui\Ex_65\Ex_65\Ex_65\obj\Debug\Ex_65.csprojAssemblyReference.cache

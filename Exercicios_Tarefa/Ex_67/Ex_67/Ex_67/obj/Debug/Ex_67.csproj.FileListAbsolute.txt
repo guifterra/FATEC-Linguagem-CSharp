@@ -1,0 +1,7 @@
+D:\Ex_67\Ex_67\Ex_67\bin\Debug\Ex_67.exe.config
+D:\Ex_67\Ex_67\Ex_67\bin\Debug\Ex_67.exe
+D:\Ex_67\Ex_67\Ex_67\bin\Debug\Ex_67.pdb
+D:\Ex_67\Ex_67\Ex_67\obj\Debug\Ex_67.csprojAssemblyReference.cache
+D:\Ex_67\Ex_67\Ex_67\obj\Debug\Ex_67.csproj.CoreCompileInputs.cache
+D:\Ex_67\Ex_67\Ex_67\obj\Debug\Ex_67.exe
+D:\Ex_67\Ex_67\Ex_67\obj\Debug\Ex_67.pdb

@@ -1,0 +1,7 @@
+D:\Ex_33\Ex_33\Ex_33\bin\Debug\Ex_33.exe.config
+D:\Ex_33\Ex_33\Ex_33\bin\Debug\Ex_33.exe
+D:\Ex_33\Ex_33\Ex_33\bin\Debug\Ex_33.pdb
+D:\Ex_33\Ex_33\Ex_33\obj\Debug\Ex_33.csproj.CoreCompileInputs.cache
+D:\Ex_33\Ex_33\Ex_33\obj\Debug\Ex_33.exe
+D:\Ex_33\Ex_33\Ex_33\obj\Debug\Ex_33.pdb
+D:\Ex_33\Ex_33\Ex_33\obj\Debug\Ex_33.csprojAssemblyReference.cache

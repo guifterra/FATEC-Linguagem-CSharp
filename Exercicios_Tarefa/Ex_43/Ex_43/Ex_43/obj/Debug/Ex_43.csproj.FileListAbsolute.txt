@@ -1,0 +1,6 @@
+D:\Ex_43\Ex_43\Ex_43\bin\Debug\Ex_43.exe.config
+D:\Ex_43\Ex_43\Ex_43\bin\Debug\Ex_43.exe
+D:\Ex_43\Ex_43\Ex_43\bin\Debug\Ex_43.pdb
+D:\Ex_43\Ex_43\Ex_43\obj\Debug\Ex_43.csproj.CoreCompileInputs.cache
+D:\Ex_43\Ex_43\Ex_43\obj\Debug\Ex_43.exe
+D:\Ex_43\Ex_43\Ex_43\obj\Debug\Ex_43.pdb

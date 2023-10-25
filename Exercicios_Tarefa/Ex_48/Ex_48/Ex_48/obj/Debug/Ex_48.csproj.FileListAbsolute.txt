@@ -1,0 +1,6 @@
+D:\Ex_48\Ex_48\Ex_48\bin\Debug\Ex_48.exe.config
+D:\Ex_48\Ex_48\Ex_48\bin\Debug\Ex_48.exe
+D:\Ex_48\Ex_48\Ex_48\bin\Debug\Ex_48.pdb
+D:\Ex_48\Ex_48\Ex_48\obj\Debug\Ex_48.csproj.CoreCompileInputs.cache
+D:\Ex_48\Ex_48\Ex_48\obj\Debug\Ex_48.exe
+D:\Ex_48\Ex_48\Ex_48\obj\Debug\Ex_48.pdb

@@ -1,0 +1,7 @@
+F:\Algoritmo\Exercicios_Tarefa\Ex_75\Ex_75\Ex_75\bin\Debug\Ex_75.exe.config
+F:\Algoritmo\Exercicios_Tarefa\Ex_75\Ex_75\Ex_75\bin\Debug\Ex_75.exe
+F:\Algoritmo\Exercicios_Tarefa\Ex_75\Ex_75\Ex_75\bin\Debug\Ex_75.pdb
+F:\Algoritmo\Exercicios_Tarefa\Ex_75\Ex_75\Ex_75\obj\Debug\Ex_75.csprojAssemblyReference.cache
+F:\Algoritmo\Exercicios_Tarefa\Ex_75\Ex_75\Ex_75\obj\Debug\Ex_75.csproj.CoreCompileInputs.cache
+F:\Algoritmo\Exercicios_Tarefa\Ex_75\Ex_75\Ex_75\obj\Debug\Ex_75.exe
+F:\Algoritmo\Exercicios_Tarefa\Ex_75\Ex_75\Ex_75\obj\Debug\Ex_75.pdb

@@ -1,0 +1,7 @@
+F:\Algoritmo\Exercicios_Tarefa\Ex_16\Algoritmo_Ex_16\Algoritmo_Ex_16\bin\Debug\Algoritmo_Ex_16.exe.config
+F:\Algoritmo\Exercicios_Tarefa\Ex_16\Algoritmo_Ex_16\Algoritmo_Ex_16\bin\Debug\Algoritmo_Ex_16.exe
+F:\Algoritmo\Exercicios_Tarefa\Ex_16\Algoritmo_Ex_16\Algoritmo_Ex_16\bin\Debug\Algoritmo_Ex_16.pdb
+F:\Algoritmo\Exercicios_Tarefa\Ex_16\Algoritmo_Ex_16\Algoritmo_Ex_16\obj\Debug\Algoritmo_Ex_16.csprojAssemblyReference.cache
+F:\Algoritmo\Exercicios_Tarefa\Ex_16\Algoritmo_Ex_16\Algoritmo_Ex_16\obj\Debug\Algoritmo_Ex_16.csproj.CoreCompileInputs.cache
+F:\Algoritmo\Exercicios_Tarefa\Ex_16\Algoritmo_Ex_16\Algoritmo_Ex_16\obj\Debug\Algoritmo_Ex_16.exe
+F:\Algoritmo\Exercicios_Tarefa\Ex_16\Algoritmo_Ex_16\Algoritmo_Ex_16\obj\Debug\Algoritmo_Ex_16.pdb
